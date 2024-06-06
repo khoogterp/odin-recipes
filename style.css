@@ -1,0 +1,49 @@
+
+* {
+    background-color: rgb(218, 205, 179);
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#food-banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+.header {
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-top: 64px;
+    margin-bottom: 0%;
+}
+
+.para {
+    margin-left: 48px;
+    margin-right: 100px;
+}
+
+.indent {
+    text-indent: 32px;
+}
+
+.ulist {
+    margin-left: 48px;
+
+}
+
+.list {
+    margin-left: 364px;
+    margin-top: -128px;
+}
+
+.img {
+    margin-top: 10px;
+    margin-bottom: 32px;
+    margin-left: 0%
+}
