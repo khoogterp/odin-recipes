@@ -19,6 +19,11 @@ body {
     align-content: center;
 }
 
+#food-name {
+    text-align: center;
+    font-size: 64px;
+}
+
 .header {
     margin-left: 108px;
     margin-top: 64px;
@@ -46,7 +51,22 @@ body {
     margin-right: 100px;
 }
 
+.ingredients,
+.wtk,
+.todo {
+    margin-left: 64px;
+    margin-right: 100px;
+}
+
 .listimg {
     width: 226px;
+    height: auto;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
     height: auto;
 }
